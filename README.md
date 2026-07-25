@@ -2,7 +2,7 @@
 <h3 align="center">M.Sc Data Science Student | B.Sc Statistics Graduate | Turning data into decisions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2B90D9&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Statistics+%7C+Python;Currently+exploring+DSA+%26+REST+APIs;Turning+raw+data+into+real+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2B90D9&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Statistics+%7C+Python;Currently+exploring+DSA+%26+AI+ML&DL;Turning+raw+data+into+real+insights" alt="Typing SVG" />
 </p>
 
 ---
