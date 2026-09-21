@@ -26,7 +26,7 @@ Open to internships, research collaborations, jobs, and freelance work in data s
 
 ---
 
-###Urban Air Quality & Health Impact Prediction
+### Urban Air Quality & Health Impact Prediction
 
 *A leakage-free AQI forecasting pipeline translating pollution data into actionable health-risk categories*
 
@@ -45,11 +45,13 @@ Open to internships, research collaborations, jobs, and freelance work in data s
 - Built statistical forecasting models in Python to predict item-level retail demand from historical sales data, supporting inventory and business planning decisions
 - Applied data cleaning and preprocessing to prepare time-series data, then created an interactive Power BI dashboard to visualize demand forecasts and trends for business stakeholders
 **Tech:** Python, Pandas, Power BI, Statistical Forecasting
+**Status:** Complete
  
 ### The Role of Parental Support in Shaping Career Choices Among College Students
 - Designed and ran a survey-based research study, applying exploratory and confirmatory statistical analysis in R and SPSS to uncover patterns in student career decision-making
 - Presented actionable, data-driven recommendations based on the findings
 **Tech:** R, SPSS, Excel, Survey Methodology
+**Status:** Complete
  
 ---
 
